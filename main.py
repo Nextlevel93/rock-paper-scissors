@@ -77,14 +77,13 @@ while True:
     if stateResult:
         imgBG = cvzone.overlayPNG(imgBG, imgAI, (149, 310))
 
+    # Displaying current players score
     cv2.putText(imgBG, str(score[0]), (410, 215),
                 cv2.FONT_HERSHEY_PLAIN, 4, (255, 255, 255), 6)
     cv2.putText(imgBG, str(score[1]), (1112, 215),
                 cv2.FONT_HERSHEY_PLAIN, 4, (255, 255, 255), 6)
 
-    # cv2.imshow("Image", img)
     cv2.imshow("BG", imgBG)
-    # cv2.imshow("Scaled", imgScaled)
 
     # Starting game with key press
 
