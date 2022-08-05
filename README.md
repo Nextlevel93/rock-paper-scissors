@@ -1,5 +1,9 @@
 # Rock-paper-scissors
 
+Video Demo:
+
+Description:
+
 Let me introduce my final project of CS50.
 
 I made a well-known game Rock-Scissors-Paper.  In this game each player should select one of the gesture (it can be rock, scissors or  paper) and show there choise at the same time. You should remember that Rock beats Scissors, Scissors beats Paper and Paper is stronger than Rock.
