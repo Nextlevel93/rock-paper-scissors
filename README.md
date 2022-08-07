@@ -15,8 +15,11 @@ Use 's' key to start game or new round.
 For the correct recognize of user`s choise he should show in to the webcam next gesture:
 
  rock - clenched fist;
+ 
  paper - open palm;
+ 
  scissors - victory sign like V.
+ 
   
 The program uses OpenCV libraries due to what it recognizes your hands gesture. 
 
