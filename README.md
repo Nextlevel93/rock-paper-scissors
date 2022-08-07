@@ -13,6 +13,7 @@ In my program user plays with a computer.
 You should have a webcam to use this program.
 Use 's' key to start game or new round. 
 For the correct recognize of user`s choise he should show in to the webcam next gesture:
+
  rock - clenched fist;
  paper - open palm;
  scissors - victory sign like V.
